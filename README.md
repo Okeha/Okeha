@@ -53,3 +53,12 @@ I am a Back End Web Developer and Aspiring Data Scientist<img src="https://media
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Okeha&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Okeha&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### :eyes: Check Out My Portfolio Website For More Information
+<a href="https://okeh-anthony-portfolio.netlify.app/" style="text-decoration:none;">
+<div>
+  <img src="https://img.shields.io/badge/Portfolio-darkgray?style=for-the-badge" alt="Twitter Badge"/>
+</div>
+</a>
