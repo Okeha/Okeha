@@ -62,3 +62,6 @@ I am a Back End Web Developer and Aspiring Data Scientist<img src="https://media
   <img src="https://img.shields.io/badge/Portfolio-darkgray?style=for-the-badge" alt="Twitter Badge"/>
 </div>
 </a>
+<div>
+Currently working on a scholarship finder that scrapes the scholarship opportunities from Instagram for a start but potentially from other social media platforms and websites too
+</div>
