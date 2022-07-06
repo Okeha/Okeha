@@ -63,5 +63,5 @@ I am a Back End Web Developer and Aspiring Data Scientist<img src="https://media
 </div>
 </a>
 <div>
-Currently working on a scholarship finder that scrapes the scholarship opportunities from Instagram for a start but potentially from other social media platforms and websites too.
+Currently working on a scholarship finder that scrapes the scholarship opportunities from Instagram for a start but potentially from other social media platforms and subsequently websites too.
 </div>
