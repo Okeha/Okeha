@@ -26,7 +26,7 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer and Machine Learning Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in the United Kingdom.
-- :telescope: I’m working as a Backend Web Developer proficient with Javascript frameworks such as Node.js, Express.js, Nest.js.
+- :telescope: I work as a Full Stack Engineer proficient with Javascript/Typescript using frameworks such as Node.js, Express.js, Nest.js, React.js and Angular.
 
 - :seedling: Exploring Data Science and Machine Learning.
 
@@ -65,7 +65,7 @@ I am a Full Stack Developer and Machine Learning Engineer<img src="https://media
 </div>
 </a>
 <div>
-Currently working on a scholarship finder that scrapes the scholarship opportunities from Instagram for a start but potentially from other social media platforms and subsequently websites too.
+Just Vibes over here!
 </div>
 <div>See you all at the top!!!
 </div>
