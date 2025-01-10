@@ -25,7 +25,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Back End Web Developer and Aspiring Data Scientist<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+I am a Full Stack Developer and Machine Learning Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in the United Kingdom.
 - :telescope: I’m working as a Backend Web Developer proficient with Javascript frameworks such as Node.js, Express.js, Nest.js.
 
 - :seedling: Exploring Data Science and Machine Learning.
