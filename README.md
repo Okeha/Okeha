@@ -32,7 +32,8 @@ I am a Full Stack Developer and Machine Learning Engineer<img src="https://media
 
 - :zap: In my free time, I enjoy coding, playing football and music.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Anthony-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-okeh-292455236?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FCadNM3vQ6umYIZoTQUKXQ%3D%3D)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Anthony-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-okeh-292455236?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FCadNM3vQ6umYIZoTQUKXQ%3D%3D) okehanthony1234@gmail.com
+  
 
 
 ### :hammer_and_wrench: Languages and Tools :
