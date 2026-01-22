@@ -51,7 +51,7 @@ I'm a **Full Stack Developer** turned **AI/ML Engineer** based in the United Kin
     <td width="50%" valign="top">
       <h3 align="center">🤟 Sign Language GPT</h3>
       <p align="center">
-        <a href="https://github.com/Okeha/sign-language-backend">
+        <a href="https://github.com/Okeha/sign-language-translator-backend">
           <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
