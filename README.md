@@ -51,12 +51,12 @@ I'm a **Full Stack Developer** turned **AI/ML Engineer** based in the United Kin
     <td width="50%" valign="top">
       <h3 align="center">🤟 Sign Language GPT</h3>
       <p align="center">
-        <a href="https://github.com/Okeha/sign-language-gpt">
+        <a href="https://github.com/Okeha/sign-language-backend">
           <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
       <p>
-        A real-time accessibility tool that bridges communication gaps. Uses <strong>LSTM networks</strong> and <strong>MediaPipe</strong> for hand-tracking to translate sign language into text. Features a bi-directional interface with a <strong>3D Avatar</strong> that converts text back into sign language animations.
+        A real-time accessibility tool that bridges communication gaps. Uses <strong>VideoMAE</strong> and <strong>MediaPipe</strong> for hand-tracking to translate sign language into text. Features a bi-directional interface with a <strong>3D Avatar</strong> that converts text back into sign language animations.
       </p>
       <p>
         <img src="https://img.shields.io/badge/InternVL-4285F4?style=flat-square&logo=google&logoColor=white"/>
