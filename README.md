@@ -32,7 +32,7 @@
 
 <img align="right" src="https://media.giphy.com/media/mYhd1NHQkHmZLiqN7M/giphy-downsized.gif" width="220"/>
 
-I'm a **Full Stack Developer** turned **AI/ML Engineer** based in the United Kingdom 🇬🇧
+My name is Anthony Okeh and I'm a **Full Stack Developer** turned **AI/ML Engineer** based in the United Kingdom 🇬🇧
 
 - 🎓 Currently pursuing my **MSc in Artificial Intelligence** at Aston University *(Distinction)*
 - 🔬 Exploring **Computer Vision**, **VLMs**, and building accessible AI tools
