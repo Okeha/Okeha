@@ -159,16 +159,25 @@ I'm a **Full Stack Developer** turned **AI/ML Engineer** based in the United Kin
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Okeha&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+    <img src="https://github-trophies.vercel.app/?username=Okeha&theme=tokyonight&row=1"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
+<!-- <div align="center"> -->
+  <!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=Okeha&theme=tokyonight&hide_border=true) -->
+  <!-- <img src="https://streak-stats.demolab.com/?user=Okeha&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/> -->
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okeha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>-->
+<!-- </div> -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Okeha&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okeha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+  
+ ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Okeha&theme=tokyonight&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Okeha&layout=compact&theme=tokyonight&hide_border=true)
+  
+
 </div>
 
 ---
