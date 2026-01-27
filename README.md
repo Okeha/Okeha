@@ -49,9 +49,9 @@ My name is Anthony Okeh and I'm a **Full Stack Developer** turned **AI/ML Engine
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤟 Sign Language GPT</h3>
+      <h3 align="center">🤟 Signrr GPT</h3>
       <p align="center">
-        <a href="https://github.com/Okeha/sign-language-translator-backend">
+        <a href="https://github.com/Okeha/SignrrGPT">
           <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
