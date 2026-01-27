@@ -176,9 +176,9 @@ My name is Anthony Okeh and I'm a **Full Stack Developer** turned **AI/ML Engine
 <!-- </div> -->
 <div align="center">
   
- ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Okeha&theme=tokyonight&hide_border=true)
+ ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Okeha&theme=tokyonight&hide_border=true&cache_seconds=1800)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Okeha&layout=compact&theme=tokyonight&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Okeha&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
   
 
 </div>
