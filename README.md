@@ -35,7 +35,7 @@
 
 My name is Anthony Okeh and I'm a **Full Stack Developer** turned **AI/ML Engineer** based in the United Kingdom 
 
-- 🎓 Currently pursuing my **MSc in Artificial Intelligence** at Aston University *(Distinction)*
+- 🎓 Currently pursuing my **MSc in Artificial Intelligence** *(Distinction)*
 - 🔬 Exploring **Computer Vision**, **VLMs**, and building accessible AI tools
 - 🏢 Previously built scalable solutions at **Deloitte** serving Fortune 500 clients
 - 🌐 3+ years of experience across **FinTech**, **Consulting**, and **Industrial AI**
