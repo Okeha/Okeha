@@ -17,7 +17,7 @@
   <a href="https://www.instagram.com/okeh.a/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://okeh-anthony-portfolio.netlify.app/">
+  <a href="https://anthonyokeh.com/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
 
